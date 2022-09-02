@@ -5,67 +5,16 @@ date:   2022-09-02 19:42:33 +0900
 categories: study
 ---
 
-***
+> reference: Bonnechère et al. 2021. **Brain training using cognitive apps can improve cognitive performance and processing speed in older adults**
+
+## Introduction
+
+- According to the World Health Organization (WHO), the world population aged over 60 years will have doubled in number by 2050, with an estimated total of 2 billion people `WHO. Ageing and Health (WHO, 2018).`
+
 ---
-___
 
-Header
-======
+## Result
 
-header
-------
+- Statistically signifcant differences were observed for the diferent CMG (p<0.001) and within the CMG for the diferent age groups for Memory Sweep (p=0.013), Babble Bots (p<0.001) and Unique (p<0.001)
 
-# Header
-## Header 2
-
-**bold**
-__bold__
-*italic*
-_italic_
-**_boldanditalic_**
-__*boldanditalic*__
-***boldanditalic***
-___boldanditalic___
-
-> quote
->>quote in quote
-
-> quote
-> # header in quote
->> quote in quote
->>>quote in quote in quote
-
-
-1. number 1
-2. number 2
-3. number 3
-
-1. number 1
-1. number 2
-1. number 3
-
-# Header
-1. number 1
-1. number 2
-
-- Bullet point 1
-- Bullet point 2
-  - hello
-- Bullet point 3
-  - hello
-
-```js
-  let x = "myName"
-```
-
-```c++
-  let x = "myName"
-```
-
-The *person* in this parameter...
-The **person** in this parameter...
-(`blah`강조용으로 많이 사용된다)
-
-[google](https://google.com)
-
-research paper를 읽고 페이지 작성?
+![table2](/devblog/assets/table2.png)
