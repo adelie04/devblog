@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "Declines in grip strength may indicate early changes in cognition in healthy middle-aged
-adults"
+title:  "Declines in grip strength may indicate early changes in cognition in healthy middle-aged adults"
 date:   2022-09-04 20:00:00 +0900
 categories: study
 ---
