@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "UI in class additional note"
+title:  "Improving UIUX of Picasso Puzzle in IPPC(inter-planetary puzzle contest)"
 date:   2022-09-09 22:00:00 +0900
 category: UI
 ---
